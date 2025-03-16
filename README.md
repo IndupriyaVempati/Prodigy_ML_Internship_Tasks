@@ -17,4 +17,4 @@ This project focuses on hand gesture recognition for intuitive human-computer in
 Task 5: Food Recognition
 This project develops a food recognition model to identify food items from images and estimate their calorie content. Using deep learning (CNNs), the system helps users track their diet by providing nutritional insights for better health management.
 
-🔹 Thank you, Prodigy Infotech, for this enriching experience! 
+ Thank you, Prodigy Infotech, for this enriching experience!!!
